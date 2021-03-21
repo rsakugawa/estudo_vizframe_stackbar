@@ -14,7 +14,7 @@ xmlns="sap.m">
 <Page title="{i18n>TituloPagina}">
 <content>
 
-<!-- inicio do container com gráfico -->
+<!-- inicio do container com gráfico V2-->
 <chart:ChartContainer autoAdjustHeight="true" 
                       id="chartContainer"  
                       title="Titulo do Container">
